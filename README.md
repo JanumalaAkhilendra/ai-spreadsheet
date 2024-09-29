@@ -1,41 +1,40 @@
-# Getting Started with Create React App
+**Introduction**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The AI Spreadsheet is a web-based application that allows users to create and edit spreadsheets with AI-powered features. The application is built using React and CopilotKit, and it provides users with a variety of features, such as:
 
-## Available Scripts
+* **Data analysis:** The application can analyze the data in a spreadsheet and provide users with insights into the data.
+* **Formula generation:** The application can generate formulas for users, based on the data in the spreadsheet.
+* **Natural language processing:** The application can understand and respond to natural language queries about the data in the spreadsheet.
+* **Collaboration:** The application allows multiple users to collaborate on the same spreadsheet in real time.
 
-In the project directory, you can run:
 
-### `npm start`
+![Ai-spreadsheet](https://drive.google.com/file/d/1-NTiQ8fC7KIvTdlbdE1CVZXVa92UpuJG/view?usp=sharing)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Features**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* **Data analysis:** The application can provide users with a variety of data analysis features, such as:
+    * **Summary statistics:** The application can provide users with summary statistics for the data in the spreadsheet, such as the mean, median, mode, and standard deviation.
+    * **Data visualization:** The application can provide users with data visualizations, such as charts and graphs, to help them understand the data.
+    * **Data trends:** The application can identify data trends, such as linear trends, exponential trends, and seasonal trends.
+* **Formula generation:** The application can generate formulas for users, based on the data in the spreadsheet. For example, if the user has a column of numbers in their spreadsheet, the application can generate a formula to calculate the average of the numbers.
+* **Natural language processing:** The application can understand and respond to natural language queries about the data in the spreadsheet. For example, the user can ask the application "What is the average salary?" and the application will respond with the average salary of the data in the spreadsheet.
+* **Collaboration:** The application allows multiple users to collaborate on the same spreadsheet in real time. This makes it easy for teams to work together on projects, even if they are not in the same location.
 
-### `npm test`
+**How to use the AI Spreadsheet**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Create a new spreadsheet:** To create a new spreadsheet, simply click on the "New Spreadsheet" button.
+2. **Enter data:** Enter your data into the spreadsheet cells.
+3. **Use the AI features:** The AI features will be automatically applied to the data in your spreadsheet. You can use the data analysis features to get insights into your data, the formula generation feature to create formulas, and the natural language processing feature to ask questions about your data.
+4. **Collaborate with others:** If you want to collaborate with others on your spreadsheet, simply share the spreadsheet link with them.
 
-### `npm run build`
+**Technical details**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The AI Spreadsheet is built using React and CopilotKit. React is a JavaScript library for building user interfaces, and CopilotKit is a framework for building AI-powered applications.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The AI Spreadsheet uses a variety of AI models, including language models, machine learning models, and graph neural networks. These models are used to power the data analysis, formula generation, and natural language processing features of the application.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Conclusion**
 
-### `npm run eject`
+The AI Spreadsheet is a powerful tool that can help you to analyze your data, generate formulas, and collaborate with others. It is easy to use and has a wide range of features, making it a valuable tool for any business or organization.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
